@@ -1,15 +1,19 @@
-# Name:
+# Name: Evan Butler
 # Date:
 
-Description:
+Description: A site for translating english to pig latin. This project is incomplete and not functional.
 
 # SetUp and Use
-In order to use this program you will need a browser...NOT IE!
 
 SetUp
-1.
 
-# Copyright (c) 2015 (Name)
+1. Open terminal/console and type: 'git clone https://github.com/evanb2/pigLatin'
+
+2. Open pigLatin folder and open the html file in your web browser.
+
+3. Follow instruction on the page.
+
+# Copyright (c) 2015 (Evan Butler)
 
 # The MIT License (MIT)
 
